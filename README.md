@@ -1,19 +1,13 @@
-```
- _____  _    ____      _    ____
-|_   _|/ \  |  _ \    / \  / ___|
-  | | / _ \ | |_) |  / _ \ \___ \
-  | |/ ___ \|  _ <  / ___ \ ___) |
-  |_/_/   \_\_| \_\/_/   \_\____/
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Taras%20Polishchuk&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descSize=20&descFontColor=94a3b8&descAlignY=58&animation=fadeIn)
 
-**Frontend Developer** · Shopify · Svelte · JavaScript
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=0EA5E9&width=480&lines=Building+Shopify+themes+%F0%9F%9B%92;Crafting+web+apps+with+Svelte+%E2%9A%A1;Turning+Figma+into+pixel-perfect+UI+%F0%9F%8E%A8;Always+learning+something+new...)](https://git.io/typing-svg)
 
 ---
 
 ### what I do
 
 - Build and customise **Shopify themes** — Liquid, sections, metafields, Storefront API
-- Create **web apps** with Svelte & React
+- Create **web apps** with Svelte & JavaScript
 - Turn Figma designs into pixel-accurate, accessible UI
 
 ---
