@@ -36,6 +36,6 @@
 
 ### find me
 
-- 🌐 [taras-polishchuk.github.io](https://taras-polishchuk.github.io)
+- 🌐 [taras-polishchuk.github.io](https://taras-polishchuk.github.io/?ref=shopify&utm_source=github&utm_medium=profile&utm_campaign=portfolio_profile&utm_content=profile_readme)
 - 💼 [LinkedIn](https://linkedin.com/in/taras-polishchuk)
 - 📩 [poli.taras.shchuk@gmail.com](mailto:poli.taras.shchuk@gmail.com)
