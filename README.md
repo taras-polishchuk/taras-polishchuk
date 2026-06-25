@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Taras%20Polishchuk&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Shopify%20Theme%20Developer&descSize=20&descFontColor=94a3b8&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Taras%20Polishchuk&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Engineer&descSize=20&descFontColor=94a3b8&descAlignY=58&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=0EA5E9&width=480&lines=Building+Shopify+themes+%F0%9F%9B%92;Crafting+web+apps+with+Svelte+%E2%9A%A1;Turning+Figma+into+pixel-perfect+UI+%F0%9F%8E%A8;Fast+turnaround+%C2%B7+clean+Liquid+%C2%B7+no+bloat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=0EA5E9&width=480&lines=Building+production+AI+systems+%F0%9F%A4%96;Orchestrating+multi-agent+workflows+%E2%9A%A1;Shipping+n8n+%2B+LLM+systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
