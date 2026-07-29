@@ -1,10 +1,24 @@
-# PUBLIC PORTFOLIO INFORMATION ARCHITECTURE v1.1 — Canonical Specification
+# PUBLIC PORTFOLIO INFORMATION ARCHITECTURE v1.2 — Canonical Specification
 
-> **Status:** v1.1 — M1.5 reconciliation patch. v1.0 was frozen 2026-07-29; v1.1 amendments resolve domain-specific authority findings surfaced by Independent Public Portfolio Certification Cycle 2 (LinkedIn-confirmed, 2026-07-29).
-> **Authority:** AI Context Runtime v3.2 (post-canonicalization, 2026-07-29). LinkedIn is canonical for chronology/employment/public positioning; Git tags are canonical for software versions; GitHub Releases are canonical for release status.
+> **Status:** v1.2 — M1.5 hotfix (canonical Identity URLs). v1.1 was M1.5 reconciliation patch; v1.2 adds the binding single-source-of-truth rule for external identity URLs.
+> **Authority:** AI Context Runtime v3.3 (post-canonicalization, 2026-07-29). LinkedIn is canonical for chronology/employment/public positioning; Git tags are canonical for software versions; GitHub Releases are canonical for release status; Runtime `01_OPERATOR_IDENTITY.md` §0 "Canonical Identity URLs" is the binding source for every external identity URL (LinkedIn, GitHub, Telegram, etc.).
 > **Prior art:** `.project-state/github-positioning-audit-2026-07-29/final-report.md` (treated as verified-position input, not as implementation plan).
 > **Purpose:** Single source from which every public surface (GitHub, GitHub Pages, LinkedIn, CV, blog, talks) is generated as a projection.
 > **Reading rule:** the architecture specifies WHERE content goes. WHAT the content is for each platform is the per-projection implementation. Do not conflate the two.
+
+### 0.1 Canonical Identity URLs rule (binding across all projections)
+
+For every external identity (LinkedIn, GitHub, X/Twitter, Telegram, Website, Email, etc.), exactly **one canonical URL** is defined in Runtime `01_OPERATOR_IDENTITY.md` §0. The canonical URL is the **single source of truth** for that identity.
+
+**Rule (binding):** When audits find a URL that differs from the canonical entry, the audit MUST NOT pick one by indirect inference (HTTP 200, search ranking, redirect target). The audit MUST either:
+
+1. Use the canonical URL from Runtime §0; or
+2. Flag the conflict as **REQUIRES OPERATOR CONFIRMATION** in the final report.
+
+**Variant URLs are not canonical**, regardless of redirect/HTTP behavior. A vanity URL (e.g., `linkedin.com/in/taras-polishchuk`) that the operator controls is NOT canonical unless explicitly listed in Runtime §0.
+
+**Implementation:** Every public surface (profile README, portfolio README, repo descriptions, bio, PPIA document, etc.) MUST reference only the canonical URL listed in Runtime §0. M1.5 hotfix 2026-07-29 applied this rule to the LinkedIn URL across all surfaces (see `final-report.md` §11).
+
 
 ---
 
