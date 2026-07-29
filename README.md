@@ -4,7 +4,7 @@
 > Daily user of Hermes · author of OperatorOS, Workspace OS, and AI Ecosystem v1.0.
 > Trajectory: Solutions Architect → Technical Founder.
 
-[Portfolio](https://taras-polishchuk.github.io) · [LinkedIn](https://linkedin.com/in/taras-polishchuk) · [Email](mailto:poli.taras.shchuk@gmail.com)
+[Portfolio](https://taras-polishchuk.github.io) · [LinkedIn](https://www.linkedin.com/in/taras-p-349902213/) · [Email](mailto:poli.taras.shchuk@gmail.com)
 
 ---
 
@@ -16,10 +16,10 @@ Public flagships (six pinned repos). Each one ships. Each one is verifiable.
 - **[OperatorOS Framework](https://github.com/taras-polishchuk/operatoros-framework)** — The MIT-licensed CLI for personal operating-system workspaces. v0.8.7. Typed substrate, composable modules, `inspect` works on any directory.
 - **[Workspace OS](https://github.com/taras-polishchuk/workspace-os)** — Bounded local Python kernel for workspace missions: validator, mission CLI, 8-artifact sprint pattern, SQLite state. v2.0.0 GA (single runtime dep: PyYAML).
 - **[Hermes (daily driver)](https://github.com/taras-polishchuk/hermes-agent)** — Fork of Nous Research's runtime. I run it daily for kanban, gateway, skills, and memory. Upstream PR [#51414](https://github.com/NousResearch/hermes-agent/pull/51414) open.
-- **[case-04 — AI Discovery Platform](https://linkedin.com/in/taras-polishchuk)** — 5 LLM providers (mock · OpenAI · Anthropic · Gemini · OpenRouter · Ollama · custom OpenAI-compatible), intake → Discovery → Workflow → Security → Architecture → Cost → Proposal. *(publication pending)*
-- **[product-team monorepo](https://linkedin.com/in/taras-polishchuk)** — 3 apps (web · api · ai-composition) · 4 packages · multi-LLM strategy. *(publication pending; case-04 + product-team are local-only)*
+- **[case-04 — AI Discovery Platform](https://www.linkedin.com/in/taras-p-349902213/)** — 5 LLM providers (mock · OpenAI · Anthropic · Gemini · OpenRouter · Ollama · custom OpenAI-compatible), intake → Discovery → Workflow → Security → Architecture → Cost → Proposal. *(publication pending)*
+- **[product-team monorepo](https://www.linkedin.com/in/taras-p-349902213/)** — 3 apps (web · api · ai-composition) · 4 packages · multi-LLM strategy. *(publication pending; case-04 + product-team are local-only)*
 
-> case-04 and product-team are local-only projects (NDA-domain) and not yet published to GitHub. The link above points to LinkedIn for source-up-to-date detail. Per domain-specific authority, the LLM provider count (`5 LLM providers`) is canonical from LinkedIn About (2026-07-29).
+> case-04 and product-team are local-only projects (NDA-domain) and not yet published to GitHub. The link above points to LinkedIn (canonical URL per Runtime v3.3 §00 + PPIA v1.2) for source-up-to-date detail. Per domain-specific authority, the LLM provider count (`5 LLM providers`) is canonical from LinkedIn About (2026-07-29).
 
 What I'm running on top of Hermes right now: Shopify production client work (S1 Income Engine, intentional decline), active AI-flavored job pipeline (S5 Career), and the four-subsystem AI Ecosystem v1.0 (Workspace OS + CCP + AI Factory + Knowledge OS).
 
@@ -104,7 +104,7 @@ Capability → artifact mapping lives in the architecture spec (`PUBLIC_PORTFOLI
 ## find me
 
 - Portfolio: https://taras-polishchuk.github.io
-- LinkedIn: https://linkedin.com/in/taras-polishchuk
+- LinkedIn: https://www.linkedin.com/in/taras-p-349902213/
 - Email: poli.taras.shchuk@gmail.com
 
 For the canonical architecture specification that this README projects (visitor journeys, navigation graph, evidence map, repository roles), see [`PUBLIC_PORTFOLIO_INFORMATION_ARCHITECTURE.md`](https://github.com/taras-polishchuk/taras-polishchuk/blob/master/PUBLIC_PORTFOLIO_INFORMATION_ARCHITECTURE.md).
