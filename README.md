@@ -19,7 +19,7 @@ Public flagships (six pinned repos). Each one ships. Each one is verifiable.
 - **[case-04 — AI Discovery Platform](https://www.linkedin.com/in/taras-p-349902213/)** — 5 LLM providers (mock · OpenAI · Anthropic · Gemini · OpenRouter · Ollama · custom OpenAI-compatible), intake → Discovery → Workflow → Security → Architecture → Cost → Proposal. *(publication pending)*
 - **[product-team monorepo](https://www.linkedin.com/in/taras-p-349902213/)** — 3 apps (web · api · ai-composition) · 4 packages · multi-LLM strategy. *(publication pending; case-04 + product-team are local-only)*
 
-> case-04 and product-team are local-only projects (NDA-domain) and not yet published to GitHub. The link above points to LinkedIn (canonical URL per Runtime v3.3 §00 + PPIA v1.2) for source-up-to-date detail. Per domain-specific authority, the LLM provider count (`5 LLM providers`) is canonical from LinkedIn About (2026-07-29).
+> case-04 and product-team are local-only projects (NDA-domain) and not yet published to GitHub. The link above points to LinkedIn (canonical URL per Runtime v3.3 §0 + PPIA v1.2) for source-up-to-date detail. Per domain-specific authority, the LLM provider count (`5 LLM providers`) is canonical from LinkedIn About (2026-07-29).
 
 What I'm running on top of Hermes right now: Shopify production client work (S1 Income Engine, intentional decline), active AI-flavored job pipeline (S5 Career), and the four-subsystem AI Ecosystem v1.0 (Workspace OS + CCP + AI Factory + Knowledge OS).
 
@@ -111,4 +111,4 @@ For the canonical architecture specification that this README projects (visitor 
 
 ---
 
-<sub>This GitHub profile is a projection of the canonical Public Portfolio Information Architecture (PPIA v1.0). The portfolio site, LinkedIn, CV, and future blog project the same architecture at different depths. See the architecture spec for the full system.</sub>
+<sub>This GitHub profile is a projection of the canonical Public Portfolio Information Architecture (PPIA v1.2). The portfolio site, LinkedIn, CV, and future blog project the same architecture at different depths. See the architecture spec for the full system.</sub>
