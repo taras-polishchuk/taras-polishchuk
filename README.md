@@ -13,11 +13,13 @@
 Public flagships (six pinned repos). Each one ships. Each one is verifiable.
 
 - **[OperatorOS Platform](https://github.com/taras-polishchuk/operatoros-platform)** — Local-first Mission execution with an evidence ledger. TypeScript monorepo, four authoritative services, M0–M4 closed. Operator-controlled runs, durable records, recoverable checkpoints.
-- **[OperatorOS Framework](https://github.com/taras-polishchuk/operatoros-framework)** — The MIT-licensed CLI for personal operating-system workspaces. v0.8.2. Typed substrate, composable modules, `inspect` works on any directory.
+- **[OperatorOS Framework](https://github.com/taras-polishchuk/operatoros-framework)** — The MIT-licensed CLI for personal operating-system workspaces. v0.8.7. Typed substrate, composable modules, `inspect` works on any directory.
 - **[Workspace OS](https://github.com/taras-polishchuk/workspace-os)** — Bounded local Python kernel for workspace missions: validator, mission CLI, 8-artifact sprint pattern, SQLite state. v2.0.0 GA (single runtime dep: PyYAML).
 - **[Hermes (daily driver)](https://github.com/taras-polishchuk/hermes-agent)** — Fork of Nous Research's runtime. I run it daily for kanban, gateway, skills, and memory. Upstream PR [#51414](https://github.com/NousResearch/hermes-agent/pull/51414) open.
-- **[case-04 — AI Discovery Platform](https://github.com/taras-polishchuk)** — 7 LLM providers, intake → Discovery → Workflow → Security → Architecture → Cost → Proposal. *(publication pending)*
-- **[product-team monorepo](https://github.com/taras-polishchuk)** — 3 apps (web · api · ai-composition) · 4 packages · multi-LLM strategy. *(publication pending)*
+- **[case-04 — AI Discovery Platform](https://linkedin.com/in/taras-polishchuk)** — 5 LLM providers (mock · OpenAI · Anthropic · Gemini · OpenRouter · Ollama · custom OpenAI-compatible), intake → Discovery → Workflow → Security → Architecture → Cost → Proposal. *(publication pending)*
+- **[product-team monorepo](https://linkedin.com/in/taras-polishchuk)** — 3 apps (web · api · ai-composition) · 4 packages · multi-LLM strategy. *(publication pending; case-04 + product-team are local-only)*
+
+> case-04 and product-team are local-only projects (NDA-domain) and not yet published to GitHub. The link above points to LinkedIn for source-up-to-date detail. Per domain-specific authority, the LLM provider count (`5 LLM providers`) is canonical from LinkedIn About (2026-07-29).
 
 What I'm running on top of Hermes right now: Shopify production client work (S1 Income Engine, intentional decline), active AI-flavored job pipeline (S5 Career), and the four-subsystem AI Ecosystem v1.0 (Workspace OS + CCP + AI Factory + Knowledge OS).
 
@@ -30,7 +32,7 @@ The GitHub-pinned portfolio tells the substrate-first narrative:
 ```
 1. OperatorOS Platform    ← flagship platform (TS, evidence-ledger)
 2. OperatorOS Framework   ← shipped MIT framework (Node 20+)
-3. Workspace OS           ← LTS Python kernel (v2.0.0 GA)
+3. Workspace OS           ← GA Python kernel (v2.0.0)
 4. whisper-clip-win       ← production desktop AI (Windows, Whisper)
 5. wispr-flow-trial-bypass← reverse-engineering case study
 6. job-tracker            ← live Svelte 5 SaaS demo
@@ -87,9 +89,9 @@ Each flagship above has a release, a validator, or a test result. Pin the repo, 
 | Capability | Primary artifact |
 |------------|------------------|
 | Workspace OS author | `workspace-os` v2.0.0 GA certificate |
-| OperatorOS Framework author | `operatoros-framework` v0.8.2 npm-installable CLI |
-| OperatorOS Platform author | `operatoros-platform` CI certified (5/5 typecheck, 4/4 build, 127+ tests) |
-| Multi-LLM orchestration | `case-04` (publication pending) — 7 LLM providers |
+| OperatorOS Framework author | `operatoros-framework` v0.8.7 npm-installable CLI |
+| OperatorOS Platform author | `operatoros-platform` v1.0.0 release (CI certified 5/5 typecheck, 4/4 build, 127+ tests) |
+| Multi-LLM orchestration | `case-04` (publication pending) — 5 LLM providers (LinkedIn) |
 | Hermes engineering | `hermes-agent` fork · upstream PR [#51414](https://github.com/NousResearch/hermes-agent/pull/51414) |
 | Production AI artifact | `whisper-clip-win` Windows desktop (CUDA/DirectML/CPU) |
 | Reverse-engineering depth | `wispr-flow-trial-bypass` case study |
