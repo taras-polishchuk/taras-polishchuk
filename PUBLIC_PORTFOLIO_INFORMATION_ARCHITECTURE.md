@@ -1,7 +1,7 @@
-# PUBLIC PORTFOLIO INFORMATION ARCHITECTURE v1.0 — Canonical Specification
+# PUBLIC PORTFOLIO INFORMATION ARCHITECTURE v1.1 — Canonical Specification
 
-> **Status:** v1.0 canonical — frozen 2026-07-29.
-> **Authority:** AI Context Runtime v3.1 (operator identity, trajectory, ecosystem).
+> **Status:** v1.1 — M1.5 reconciliation patch. v1.0 was frozen 2026-07-29; v1.1 amendments resolve domain-specific authority findings surfaced by Independent Public Portfolio Certification Cycle 2 (LinkedIn-confirmed, 2026-07-29).
+> **Authority:** AI Context Runtime v3.2 (post-canonicalization, 2026-07-29). LinkedIn is canonical for chronology/employment/public positioning; Git tags are canonical for software versions; GitHub Releases are canonical for release status.
 > **Prior art:** `.project-state/github-positioning-audit-2026-07-29/final-report.md` (treated as verified-position input, not as implementation plan).
 > **Purpose:** Single source from which every public surface (GitHub, GitHub Pages, LinkedIn, CV, blog, talks) is generated as a projection.
 > **Reading rule:** the architecture specifies WHERE content goes. WHAT the content is for each platform is the per-projection implementation. Do not conflate the two.
@@ -70,12 +70,15 @@ These three branches are parallel. **None of them is the primary identity.** Non
 ### 1.4 Historical identity (supporting-only, never headline)
 
 ```
-Frontend Developer with Shopify specialization (2020–2024)
+Frontend Developer with Shopify specialization (early 2020s as Frontend; 2024–2026 as Shopify)
 ```
 
-- **Period:** 2020–2024 formation period. The Operator's Svelte/SvelteKit/Liquid/OS 2.0 fluency was built here.
-- **Authority:** AI Context Runtime references this in `01_OPERATOR_IDENTITY.md` §3 ("Production Engineering… applies identically across multiple domains. What changes is the surface; what does not change is the discipline.").
-- **Why historical:** the Operator has since moved to AI Automation as primary investment. The Shopify capability is retained as one of three parallel branches (§1.3), not as the primary identity.
+- **Period (amended v1.1):** Canonical chronology per LinkedIn (2026-07-29):
+  - Frontend Developer at LLC Global Support Services (Jan 2021 – Sep 2024, 3y 9m) — SvelteKit multi-locale, A/B testing, PostHog/GTM/Clarity, Cloudflare DNS. **Not Shopify work.**
+  - Shopify Software Engineer at Lime (Sep 2024 – Mar 2026, 1y 7m) — Shopify OS 2.0, Liquid, Klaviyo, custom Functions, Cart Transform.
+  - AI Automation Engineer (Independent) — Self-employed (Mar 2026 – Present) — 6 specialist agents, n8n, multi-LLM orchestration, 3 SaaS MVPs shipped.
+- **Authority:** LinkedIn (canonical for chronology/employment). The v1.0 framing "2020–2024 formation period" was a misread; the Frontend role was 3y 9m non-Shopify (2021–2024), and Shopify work continues today via active consulting (code8, ivan-designer per canonical `08_CURRENT_WORKSPACE_SNAPSHOT.md` §8.1).
+- **Why historical:** the Operator has since moved to AI Automation as primary investment per `01_OPERATOR_IDENTITY.md` §7. The Shopify capability is retained as one of three parallel branches (§1.3), not as the primary identity. The 5+ years bucket spans Frontend + Shopify + AI per LinkedIn About (2026-07-29).
 - **Where this appears:** only as provenance context — never in a headline, never in a primary tagline.
 
 ### 1.5 Identities that should never become primary again
@@ -476,7 +479,9 @@ Step 4: portfolio site → case studies (conversion-engineering ones)
 Step 5: contact → DM                                     (conversion)
 ```
 
-**Conversion goal:** client understands "this person can ship storefronts AND AI" — meaning they don't have to choose. Note: the Shopify client pipeline is the S1 income engine and is in intentional decline per `01_OPERATOR_IDENTITY.md`. This journey supports income, not trajectory.
+**Conversion goal (v1.1 amended):** client understands "this person can ship storefronts AND AI" — meaning they don't have to choose. Note: the Shopify client pipeline is the S1 income engine and is in intentional decline per `01_OPERATOR_IDENTITY.md`. This journey supports income, not trajectory.
+
+**v1.1 reframe:** Per LinkedIn (2026-07-29), Shopify work continues today (current parallel branch + active consulting clients code8, ivan-designer per canonical snapshot §8.1). The journey is not a closed Shopify-pivot-to-AI narrative; Shopify capability is current, not historical. A Shopify client arriving today should see "this person still ships Shopify for clients AND AI for portfolio" — both are real, both are concurrent. The journey's premise is "shopify + AI depth" not "shopify pivot → AI".
 
 ### 6.6 Open-source contributor ("Can I contribute to OperatorOS?")
 
