@@ -15,7 +15,7 @@ For every external identity (LinkedIn, GitHub, X/Twitter, Telegram, Website, Ema
 1. Use the canonical URL from Runtime §0; or
 2. Flag the conflict as **REQUIRES OPERATOR CONFIRMATION** in the final report.
 
-**Variant URLs are not canonical**, regardless of redirect/HTTP behavior. A vanity URL (e.g., `linkedin.com/in/taras-polishchuk`) that the operator controls is NOT canonical unless explicitly listed in Runtime §0.
+**Variant URLs are not canonical**, regardless of redirect/HTTP behavior. A vanity URL (e.g., the historical `linkedin.com/in/taras-polishchuk` redirect that resolves to the canonical page) is NOT canonical unless explicitly listed in Runtime §0. Only the canonical UID-form `linkedin.com/in/taras-p-349902213` is binding.
 
 **Implementation:** Every public surface (profile README, portfolio README, repo descriptions, bio, PPIA document, etc.) MUST reference only the canonical URL listed in Runtime §0. M1.5 hotfix 2026-07-29 applied this rule to the LinkedIn URL across all surfaces (see `final-report.md` §11).
 
